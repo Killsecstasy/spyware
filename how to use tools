@@ -1,0 +1,3 @@
+filesystem_monitor.py
+python filesystem_monitor.py
+Press Ctrl+C in the terminal to stop the script.
